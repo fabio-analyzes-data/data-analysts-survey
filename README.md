@@ -1,9 +1,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-# Credit Card Defaults Analysis
+# Data Analyst Survey Analysis
 
 ---
-Gain insight into the demographic variables of credit card defautls. Explore the trends and patterns in credit card defaults based on various demographic variables such as age, gender, income, education, and more. Provide insights that can help financial institutions and individuals better understand the factors that contribute to credit card defaults and take proactive steps to mitigate them.
+Data dashboard based ona survey presented to Data Analysts in different stages of career development. The survey considers variables such as:
+- Field, industry or sector of employment
+- Job satisfaction
+- Salary Range
+- Location
+- Preferred Programming Language
+- Salary Satisfaction
+Findings can be used by employers and individuals to make informed decisions about hiring, career growth, and workplace satisfaction.
 
 
 ## Languages and Tools
@@ -15,7 +22,7 @@ Gain insight into the demographic variables of credit card defautls. Explore the
 
 ## Dashboard
 <div align='center'>
-<img src="./src/credit-card-defaults-analysis.png" title="Kaggle" alt=""/>&nbsp;
+<img src="./src/data-analysis-survey.jpg" title="Kaggle" alt=""/>&nbsp;
 </div>
 
 
